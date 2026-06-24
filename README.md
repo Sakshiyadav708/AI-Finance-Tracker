@@ -40,3 +40,9 @@ Building this project helped me understand how machine learning models can be in
 # Author
 **Sakshi Yadav**
 B.Tech CSE (3rd Year)
+# Screenshots
+dashboard.png
+category prediction.png
+pie chart.png
+budget reccomendation.png
+daily spending trend.png

@@ -38,19 +38,16 @@ Building this project helped me understand how machine learning models can be in
 * Add budget planning and reminders
 # Screenshots
 # Dashboard
-![Dashboard](AI_Finance_Project/dashboard.png)
-
+![Dashboard](dashboard.png)
 # Category Prediction
-![Category Prediction](AI_Finance_Project/category%20prediction.png)
-
+![Category Prediction](category%20prediction.png)
 # Pie Chart
-![Pie Chart](AI_Finance_Project/pie%20chart.png)
-
+![Pie Chart](pie%20chart.png)
 # Budget Recommendation
-![Budget Recommendation](AI_Finance_Project/budget-recommendation.png)
-
+![Budget Recommendation](budget-recommendation.png)
 # Daily Spending Trend
-![Daily Spending Trend](AI_Finance_Project/Daily-spending-trend.png)
+![Daily Spending Trend](Daily-spending-trend.png)
+
 # Author
 **Sakshi Yadav**
 B.Tech CSE (3rd Year)
